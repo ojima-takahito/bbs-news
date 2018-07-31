@@ -1,0 +1,180 @@
+msgid ""
+msgstr "MIME-Version: 1.0\n"
+
+#. Short description.
+msgid "You can make sub-directories in the upload directory, and move files into them."
+msgstr ""
+
+#. Screenshot description.
+msgid "Media File Manager."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "You can make sub-directories in the upload directory, and move files into them. At the same time, this plugin modifies the URLs/path names in the database. Also an alternative file-selector is added in the editing post/page screen, so you can pick up media files from the subfolders easily."
+msgstr ""
+
+#. Found in description paragraph.
+msgid ""
+"You can view some screenshots, documentation, known issues in the following URL:\n"
+"http://tempspace.net/plugins/?page_id=111"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Before try this plugin, I recommend you to backup your contents(files, database) and test this plugin enough. I have tested this plugin with Apache(Liunx/Windows) and IIS Express 7.5. If you cannot get working this plugin, please let me know."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "(usage of file manager)"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "*To open the file manager, click the \"Media File Manager\" link in the Media tab in the admin screen."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "*To change directory, click an yellow folder icon."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "*To move items, check the items you'll move. Then, click an arrow icon which points the destination."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "*To make a directory, click an yellow [+] button. Then enter the name of the directory."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "*To rename, right-click the icon and select 'Rename'. Then enter the new name."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "*To delete an empty folder, right-click the icon and select 'Delete'. You cannot delete files or non-empty folders. To delete them, use the built-in media manager of Wordpress."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "*To preview an item, right-click the icon of it, and select 'Preview'."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "(usage of file selector)"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "*To open the media selector, click an yellow folder icon with 'M' letter in the post/page editor screen."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "*Then, list of media files opens. At first, all media files appears in the list. You can select directory, media type by selecting the pull-down menu at the top of the dialog."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "*Click an icon of media file you'll insert. Then the media insert dialog similar as usual appears. Edit information of the media and click insert button."
+msgstr ""
+
+#. Found in installation paragraph.
+msgid "Install the plugin like usual ones. Then activate it."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed security bugs, etc."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed security bugs."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added an option of disabling set_time_limit()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added [Select All]/[Deselect All] buttons."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed some errors."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed security bug."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "improved stability."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added a permission setting for file selector feature."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Corrected background color."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added a feature of deleting empty directories."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Solve the problem that thumbnails of files other than images, audio or movies are broken in the media selector."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improve styling"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Solved the problem that unnecessary code was running when loading posts or pages."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Solved the problem that some buttons in the media-selector did not working."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Solved the problem that this plugin does not work with PHP5.4."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added user access control by role."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Solved the problem that file manager shows root directory of your server when the upload directory is not writeable by the server."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Solved the problem that when moving items, items with same names in the destination directory are overwritten."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Solved the problem that the plugin does not work under some kind of environment/setting (Especially windows servers)."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Solved the problem that URLs of medium/large images in posts/pages are not replaced."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Solved the problem that when a file is renamed to an existing name, the existing file is deleted."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Solved the problem that media selector does not work in the QuickPress."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Solved installation problem."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "several bug fixes."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Initial release."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "."
+msgstr ""
